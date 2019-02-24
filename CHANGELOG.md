@@ -1,3 +1,12 @@
+## 0.2.2 (2019-02-24)
+
+
+### Features
+
+* 将 base.js 中的规则作为 react.js 的依赖 ([502a617](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/502a617))
+
+
+
 ## 0.2.1 (2019-02-24)
 
 
