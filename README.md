@@ -15,3 +15,6 @@ yarn add eslint-config-bigbigbo -D
   extends: "bigbigbo"
 }
 ```
+
+## Changelog
+see [CHANGELOG.md](./CHANGELOG.md)
