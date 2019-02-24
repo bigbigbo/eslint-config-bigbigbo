@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bigbigbo",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "a eslint configuration",
   "main": "lib/react.js",
   "scripts": {
