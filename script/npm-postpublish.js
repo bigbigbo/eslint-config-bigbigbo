@@ -16,7 +16,7 @@ if (step3.code !== 0) {
   shell.exit(3);
 }
 
-const step4 = shell.exec("git push -u origin/master");
+const step4 = shell.exec("git push -u origin master");
 if (step4.code !== 0) {
   shell.exit(4);
 }
