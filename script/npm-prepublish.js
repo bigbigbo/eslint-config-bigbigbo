@@ -36,5 +36,4 @@ inquirer
     if (code !== 0) {
       shell.exit(1);
     }
-    shell.exec("npm run changelog");
   });
