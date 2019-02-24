@@ -1,3 +1,12 @@
+## 0.2.3 (2019-02-24)
+
+
+### Bug Fixes
+
+* eslint extends 中的值不能为一个 function ([d10b0a9](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/d10b0a9))
+
+
+
 ## 0.2.2 (2019-02-24)
 
 
