@@ -7,7 +7,8 @@
     "release": "node script/release"
   },
   "keywords": [
-    "eslint-config"
+    "eslint-config",
+    "typescript-eslint"
   ],
   "author": "bigbigbo <zxb141242@163.com>",
   "license": "ISC",
