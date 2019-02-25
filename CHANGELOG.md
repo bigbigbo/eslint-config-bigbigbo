@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.3.0...v0.3.1) (2019-02-25)
+
+
+### Features
+
+* 自定义 typescript 规则 ([702ccad](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/702ccad))
+
+
+
 # [0.3.0](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.2.6...v0.3.0) (2019-02-25)
 
 

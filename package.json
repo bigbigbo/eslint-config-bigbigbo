@@ -1,12 +1,11 @@
 {
   "name": "eslint-config-bigbigbo",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "a eslint configuration",
   "main": "lib/javascript-react.js",
   "scripts": {
     "git-push": "node script/git-push",
-    "prepublish": "node script/npm-prepublish",
-    "postpublish": "node script/git-push",
+    "release": "node script/release",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
   },
   "keywords": [
