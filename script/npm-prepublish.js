@@ -4,8 +4,8 @@ const shell = require("shelljs");
 const pkgVersion = require("../package.json").version;
 const [major, minor, patch] = pkgVersion.split(".");
 
-const newMajor = `${parseInt(major) + 1}.${minor}.${patch}`;
-const newMinor = `${major}.${parseInt(minor) + 1}.${patch}`;
+const newMajor = `${parseInt(major) + 1}.0.0`;
+const newMinor = `${major}.${parseInt(minor) + 1}.0`;
 const newPatch = `${major}.${minor}.${parseInt(patch) + 1}`;
 
 inquirer
