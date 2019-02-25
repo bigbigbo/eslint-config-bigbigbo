@@ -2,7 +2,7 @@
   "name": "eslint-config-bigbigbo",
   "version": "0.2.6",
   "description": "a eslint configuration",
-  "main": "lib/react.js",
+  "main": "lib/javascript-react.js",
   "scripts": {
     "git-push": "node script/git-push",
     "prepublish": "node script/npm-prepublish",
@@ -26,6 +26,8 @@
     }
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.4.1",
+    "@typescript-eslint/parser": "^1.4.1",
     "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-airbnb-base": "^13.1.0",
