@@ -1,9 +1,9 @@
-## [0.3.3](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.3.0...v0.3.3) (2019-02-25)
+## [0.3.4](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.3.0...v0.3.4) (2019-02-25)
 
 
 ### Features
 
-* 添加 typescript 的自定义规则 ([81e9dfc](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/81e9dfc))
+* 添加 typescript 的自定义规则 ([4043663](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/4043663))
 
 
 
