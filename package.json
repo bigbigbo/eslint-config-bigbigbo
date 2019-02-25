@@ -4,9 +4,7 @@
   "description": "a eslint configuration",
   "main": "lib/javascript-react.js",
   "scripts": {
-    "git-push": "node script/git-push",
-    "release": "node script/release",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+    "release": "node script/release"
   },
   "keywords": [
     "eslint-config"

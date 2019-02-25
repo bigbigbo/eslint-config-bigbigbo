@@ -88,4 +88,14 @@ inquirer
     if (step5.code !== 0) {
       shell.exit(5);
     }
+
+    const step6 = shell.exec("git push origin --tags");
+    if (step6.code !== 0) {
+      shell.exit(6);
+    }
+
+    const step7 = shell.exec("npm publish");
+    if (step7.code !== 0) {
+      shell.exit(7);
+    }
   });
