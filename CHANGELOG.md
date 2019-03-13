@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.3.4...v0.4.0) (2019-03-13)
+
+
+### Features
+
+* 调整规则 ([9f2c0ef](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/9f2c0ef))
+
+
+
 ## [0.3.4](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.3.0...v0.3.4) (2019-02-25)
 
 
