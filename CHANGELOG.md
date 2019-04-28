@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.4.0...v0.5.0) (2019-04-28)
+
+
+### Features
+
+* 配置 env /提取公共 rule ([e5da337](https://github.com/bigbigbo/eslint-config-bigbigbo/commit/e5da337))
+
+
+
 # [0.4.0](https://github.com/bigbigbo/eslint-config-bigbigbo/compare/v0.3.4...v0.4.0) (2019-03-13)
 
 
