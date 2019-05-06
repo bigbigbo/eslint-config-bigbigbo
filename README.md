@@ -23,21 +23,21 @@ if you just lint `.js` file, edit your `.eslintrc` file:
 lint `.jsx` file, edit your `.eslintrc` file:
 ```js
 {
-  extends: "bigbigbo/javascriptreact"
+  extends: "bigbigbo/lib/javascriptreact"
 }
 ```
 
 lint `.ts` file, edit your `.eslintrc` file: 
 ```js
 {
-  extends: "bigbigbo/typescript"
+  extends: "bigbigbo/lib/typescript"
 }
 ```
 
 lint `.tsx` file, edit your `.eslintrc` file:
 ```js
 {
-  extends: "bigbigbo/typescriptreact"
+  extends: "bigbigbo/lib/typescriptreact"
 }
 ```
 
